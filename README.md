@@ -1,7 +1,4 @@
-[Screenshot 2023-06-25 041156](https://github.com/Hermonise-A/Growing-with-Data-Analytics/assets/112904853/aa9a929a-d94d-430d-a0be-9af2a6bf7daf)
-
-# Growing with Data Analytics!
-
+# Growing with Data Analytics![Pic33](https://github.com/Hermonise-A/Growing-with-Data-Analytics/assets/112904853/64e962dd-cbd5-49a1-a8f0-b05011ca71ed)
 ## Get to Know Me 
 
 Hello! My name is Hermonise (her-mo-neece). Growing up I wanted to make a difference in the world. I loved interacting with and learning about people, how they work, feel and what makes them who they are. This passion for connection lead me to the healthcare field specifically psychology and mental health. I wanted to understand how people viewed themselves and their interaction with others in the hopes that I would learn something about myself and how I relate to the world. With this thirst for understanding I have learned that accessibility is a blocker for growth. I want to make data accessible. I want to make change accessible so people can grow in ways they couldn't imagine before.
@@ -33,5 +30,5 @@ Skills Used:Data Cleansing, MSSQL, Joins, CTE's, Temp Tables, Windows Functions,
 Skills Used: Data Management, Data Aggregation, Data Analysis, R Programming, RStudio, R Markdown, DataViz, Business Planning
  
 
-### Let's Connect !
+## Let's Connect !
 [LinkedIn](https://www.linkedin.com/in/hermonise-auguste1215/)
