@@ -5,7 +5,7 @@ Hello! My name is Hermonise (her-mo-neece). Growing up I wanted to make a differ
 
 From case management to project management to me means bridging the gap between the internal and the external. Using my experience to bring new life to data using a people-first approach. I have spent my personal time learning more about project management, data analytics and business intelligence through certifications. In my professional time I have spent time understanding various management systems,the value of stakeholder relationships, and sustaining business practices. 
 
-I have formulated this repository to highlight what I have learned. I would like to showcase and track my own growth as a Data Analyst. I want use data to look at where I started and where I am currently in own process at any given time in a more meaningful way. 
+I created this repository to highlight what I have learned. I would like to showcase and track my own growth as a Data Analyst. I want use data to look at where I started and where I am currently in own process at any given time in a more meaningful way. 
 
 ## Education and Certifications 
 
