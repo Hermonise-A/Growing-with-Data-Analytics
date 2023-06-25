@@ -18,27 +18,27 @@ I created this repository to highlight what I have learned. I would like to show
 ## Portfolio Projects 
 
 #### Cyclistic Project Capstone
-##### **Purpose**: understand how their customers are using their bikes; their top priority is identifying customer demand at different station locations. The dataset includes millions of rides, so the team wants a dashboard that summarizes key insights. apply customer usage insights to inform new station growth?
+**Purpose:** understand how their customers are using their bikes; their top priority is identifying customer demand at different station locations. The dataset includes millions of rides, so the team wants a dashboard that summarizes key insights. apply customer usage insights to inform new station growth?
 
-##### **Outcome**: Use project planning documents to identify key metrics and dashboard requirements. Upload target tables into Tableau. Design charts and tables to share insights with stakeholders. Create an effective dashboard using those charts and tables
+**Outcome:** Use project planning documents to identify key metrics and dashboard requirements. Upload target tables into Tableau. Design charts and tables to share insights with stakeholders. Create an effective dashboard using those charts and tables
 
-##### **Skills Used**: Bigquery, Data Visualization (DataViz), Tableau Software, Dashboarding and Reporting, Business Analysis, Extraction, Transformation And Loading (ETL)
+**Skills Used:** Bigquery, Data Visualization (DataViz), Tableau Software, Dashboarding and Reporting, Business Analysis, Extraction, Transformation And Loading (ETL)
 
 #### Global Trends in Mental Health Disorders
-##### **Purpose**:
-##### **Outcome**:
-##### **Skills Used**: Data Collection, Data Research, Tableau Software, MySQL, Microsoft Excel, Data Analysis, Data Integrity Assessment
+**Code**
+**Purpose:** Insert Here
+**Outcome:** Insert Here
+**Skills Used:** Data Collection, Data Research, Tableau Software, MySQL, Microsoft Excel, Data Analysis, Data Integrity Assessment
 
 #### COVID-19 Health Data Exploration
-##### **Purpose**:
-##### **Outcome**:
-##### **Skills Used**: Data Cleansing, MSSQL, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**Purpose:** Insert Here
+**Outcome:** Insert Here
+**Skills Used:** Data Cleansing, MSSQL, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 #### Bella Beats Project Capstone
-##### **Purpose**:
-##### **Outcome**:
-##### **Skills Used**: Data Management, Data Aggregation, Data Analysis, R Programming, RStudio, R Markdown, DataViz, Business Planning
-
+**Purpose:** Insert Here
+**Outcome:** Insert Here
+**Skills Used:** Data Management, Data Aggregation, Data Analysis, R Programming, RStudio, R Markdown, DataViz, Business Planning
 
 ## Let's Connect !
 [LinkedIn](https://www.linkedin.com/in/hermonise-auguste1215/)
