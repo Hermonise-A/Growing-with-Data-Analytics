@@ -16,5 +16,5 @@ From case management to project management to me means bridging the gap between 
 
 ## Portfolio Projects 
 
-## Let's Connect 
+### Let's Connect 
 [LinkedIn](https://www.linkedin.com/in/hermonise-auguste1215/)
