@@ -10,5 +10,8 @@ From case management to project management to me means bridging the gap between 
 
 * Rutgers University, New Brunswick, NJ Major Bachelor of Arts in Psychology with Minor in Health, and Society
 * [Google Project Management Professional Certificate ](https://www.credly.com/badges/c545b2f3-effa-4ace-bbc3-f64b328804b1/linked_in_profile)
-* 
+* [Google Data Analytics Professional Certificate ](https://www.credly.com/badges/7f907d11-da05-489d-998a-5e1d0b8c2e6b/linked_in_profile)
+* [Google Business Intelligence Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/X343DZZJCC8Q)
+* [Professional Scrum Master I (PSM I) Certificate (Scrum.org)](https://www.credly.com/badges/f3a706da-ae11-4446-b89b-edebaa26a774/public_url)
+
 ## Portfolio Projects 
