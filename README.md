@@ -1,4 +1,6 @@
-# Growing with Data Analytics
+[Screenshot 2023-06-25 041156](https://github.com/Hermonise-A/Growing-with-Data-Analytics/assets/112904853/aa9a929a-d94d-430d-a0be-9af2a6bf7daf)
+
+# Growing with Data Analytics!
 
 ## Get to Know Me 
 
