@@ -15,3 +15,6 @@ From case management to project management to me means bridging the gap between 
 * [Professional Scrum Master I (PSM I) Certificate (Scrum.org)](https://www.credly.com/badges/f3a706da-ae11-4446-b89b-edebaa26a774/public_url)
 
 ## Portfolio Projects 
+
+## Let's Connect 
+[LinkedIn](https://www.linkedin.com/in/hermonise-auguste1215/)
