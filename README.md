@@ -1,4 +1,4 @@
-# Growing-with-Data-Analytics
+# Growing with Data Analytics
 
 ## Get to Know Me 
 
