@@ -2,9 +2,11 @@
 
 ## Get to Know Me 
 
-Hello! My name is Hermonise. Growing up I wanted to make a difference in the world. I loved interacting with and learning about people, how they work, feel and what makes them who they are. This passion for connection lead me to the healthcare field specifically psychology and mental health. I wanted to understand how people viewed themselves and their interaction with others in the hopes that I would learn something about myself and how I relate to the world. I have learned that accessibility is a blocker for growth. I want to make data accessible. I want to make change accessible so people can grow in ways they couldn't imagine before.
+Hello! My name is Hermonise. Growing up I wanted to make a difference in the world. I loved interacting with and learning about people, how they work, feel and what makes them who they are. This passion for connection lead me to the healthcare field specifically psychology and mental health. I wanted to understand how people viewed themselves and their interaction with others in the hopes that I would learn something about myself and how I relate to the world. With this thirst for understanding I have learned that accessibility is a blocker for growth. I want to make data accessible. I want to make change accessible so people can grow in ways they couldn't imagine before.
 
-From case management to project management to me means bridging the gap between the internal and the external. Using my experience to bring new life to data using a people-first approach. I have spent my time learning more about project management, data analytics and business intelligence through certifications and have formulated a repository to highlight what I have learned. This repository is to showcase and track my own growth as a data analyst. I want to continue to look at where I started and where I am currently at any given time in a meaningful way. 
+From case management to project management to me means bridging the gap between the internal and the external. Using my experience to bring new life to data using a people-first approach. I have spent my personal time learning more about project management, data analytics and business intelligence through certifications. In my professional time I have spent time understanding various management systems,the value of stakeholder relationships, and sustaining business practices. 
+
+I have formulated this repository to highlight what I have learned. I would like to showcase and track my own growth as a Data Analyst. I want use data to look at where I started and where I am currently in own process at any given time in a more meaningful way. 
 
 ## Education and Certifications 
 
@@ -16,5 +18,18 @@ From case management to project management to me means bridging the gap between 
 
 ## Portfolio Projects 
 
-### Let's Connect 
+#### Cyclistic Project Capstone
+Skills Used: Bigquery, Data Visualization (DataViz), Tableau Software, Dashboarding and Reporting, Business Analysis, Extraction, Transformation And Loading (ETL)
+
+#### Global Trends in Mental Health Disorders
+Skills Used: Data Collection, Data Research, Tableau Software, MySQL, Microsoft Excel, Data Analysis, Data Integrity Assessment
+
+#### COVID-19 Health Data Exploration
+Skills Used:Data Cleansing, MSSQL, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+#### Bella Beats Project Capstone
+Skills Used: Data Management, Data Aggregation, Data Analysis, R Programming, RStudio, R Markdown, DataViz, Business Planning
+ 
+
+### Let's Connect !
 [LinkedIn](https://www.linkedin.com/in/hermonise-auguste1215/)
